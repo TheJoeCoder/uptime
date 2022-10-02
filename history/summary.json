@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 525,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "time": 731,
+    "timeDay": 731,
+    "timeWeek": 731,
+    "timeMonth": 731,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,49 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5374,
-    "timeDay": 5374,
-    "timeWeek": 5374,
-    "timeMonth": 5374,
-    "timeYear": 5374,
+    "time": 2960,
+    "timeDay": 2960,
+    "timeWeek": 2960,
+    "timeMonth": 2960,
+    "timeYear": 2960,
     "dailyMinutesDown": {}
   },
   {
     "name": "Minecraft Hosting - Node 1",
-    "url": "https://node1.mc.radialbog9.uk:8080",
-    "icon": "https://icons.duckduckgo.com/ip3/node1.mc.radialbog9.uk.ico",
+    "url": "node1.mc.radialbog9.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-hosting-node-1",
-    "status": "down",
-    "uptime": "50.21%",
-    "uptimeDay": "50.21%",
-    "uptimeWeek": "50.21%",
-    "uptimeMonth": "50.21%",
-    "uptimeYear": "50.21%",
+    "status": "up",
+    "uptime": "95.06%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "95.06%",
+    "time": 823,
+    "timeDay": 823,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
+    "dailyMinutesDown": {
+      "2022-10-02": 1
+    }
+  },
+  {
+    "name": "Radialbog9 MC",
+    "url": "play.mc.radialbog9.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "radialbog9-mc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-10-02": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
