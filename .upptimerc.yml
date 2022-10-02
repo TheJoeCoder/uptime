@@ -3,8 +3,12 @@ owner: TheJoeCoder # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Radialbog9
+    url: https://radialbog9.uk
+  - name: Minecraft Hosting Panel
+    url: https://panel.mc.radialbog9.uk
+  - name: Minecraft Hosting - Node 1
+    url: https://node1.mc.radialbog9.uk:8080
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
