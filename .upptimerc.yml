@@ -8,7 +8,13 @@ sites:
   - name: Minecraft Hosting Panel
     url: https://panel.mc.radialbog9.uk
   - name: Minecraft Hosting - Node 1
-    url: https://node1.mc.radialbog9.uk:8080
+    check: "tcp-ping"
+    url: node1.mc.radialbog9.uk
+    port: 8080
+  - name: Radialbog9 MC
+    check: "tcp-ping"
+    url: play.mc.radialbog9.uk
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,6 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  apiBaseUrl: https://utpr.uptime.rb9.xyz
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
